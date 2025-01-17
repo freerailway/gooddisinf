@@ -38,6 +38,9 @@ The Good Disinfectant Hypothesis: Human Bodies Might Contain a Distributed Quant
 
 In this paper, we propose an anthropological and cosmological hypothesis, the “Good Disinfectant Hypothesis” (GDH), which posits that human bodies may harbor a distributed quantum computing system originating from some advanced civilization. This system is suggested to have been intentionally disseminated to preemptively eliminate malevolent civilizations that are potential threats to cosmic peace. This system eliminates intelligent life forms after the infect, acting like a cosmic disinfectant. However, this system does not annihilate all intelligent life. Instead, it conducts quantum computations within these life forms to determine which populations are not malicious, thus preserving them. Therefore, we refer to this distributed quantum computing system as the “Good Disinfectant”. The GDH can elucidate the cosmological Fermi paradox and provide insights into many challenging questions regarding human origins and prehistoric civilizations. It may also have significant implications for the political structure and moral guidance of human societies.
 
+Keywords:
+extraterrestrial life, advanced civilization, quantum computing, Fermi paradox, Great Filter, cosmic hypothesis, prehistoric civilization, human origin
+
 如果想正式引用的话：
 
 Li, J., & Li, A. (2025). The Good Disinfectant Hypothesis: Human Bodies Might Contain a Distributed Quantum Computing System from an Advanced Civilization. Zenodo. https://doi.org/10.5281/zenodo.14671487
